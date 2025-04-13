@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+### Les 4 lignes suivantes sont commentées pour permettre les mises à jour automatiques (PR)
 #  pull_request:
 #    types: [opened, synchronize, reopened, closed]
 #    branches:
